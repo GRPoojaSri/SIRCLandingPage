@@ -1,7 +1,7 @@
 function LandingPage() {
     return (
       <>
-        <div className="container">
+        <div className="container-fluid">
             <div className="row row1Height">
             </div>
             <div className="row row2Height">
